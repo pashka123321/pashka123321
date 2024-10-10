@@ -1,0 +1,2 @@
+127.0.0.1    rkn.gov.ru
+127.0.0.1    www.rkn.gov.ru
